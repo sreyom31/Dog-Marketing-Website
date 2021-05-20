@@ -170,7 +170,7 @@ p {
 
 /** Footer Section */
 #footer {
-  height: 10vh;
+  margin: 1%;
 }
 
 .foot-icon i {
